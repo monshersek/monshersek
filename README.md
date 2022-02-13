@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @monshersek
-- 👀 I’m interested in Science
-- 🌱 I’m currently learning German
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+money.
 
 <!---
 monshersek/monshersek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
